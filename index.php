@@ -50,7 +50,7 @@
       <h1 class="mb-4 pb-0">Happy Birthday<br><span>Akhil Anil</span></h1>
       <!-- <p class="mb-4 pb-0">26-Aug-1998</p> -->
         <video width="900" height="900" controls autoplay>
-          <source src="video/birthday.mp4" type="video/mp4">
+          <source src="video/Birthday.mp4" type="video/mp4">
         </video>
       <!-- <a href="#about" class="about-btn scrollto">About The Event</a> -->
     </div>
