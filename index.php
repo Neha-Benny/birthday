@@ -55,10 +55,10 @@
       <!-- <a href="#about" class="about-btn scrollto">About The Event</a> -->
     </div>
   </section>
-
+  <!--========================================================
   <main id="main">
 
-    <!--========================================================
+   
       Gallery Section
   
     <section id="gallery" class="wow fadeInUp">
@@ -80,12 +80,12 @@
         <a href="img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/7.jpg" alt=""></a>
         <a href="img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/8.jpg" alt=""></a>
       </div>
-      ==============================================================-->
+      
 
     </section>
 
   </main>
-
+  ==============================================================-->
 
   <!--==========================
     Footer
