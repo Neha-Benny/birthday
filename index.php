@@ -58,11 +58,11 @@
 
   <main id="main">
 
-    <!--==========================
+    <!--========================================================
       Gallery Section
-    ============================-->
+  
     <section id="gallery" class="wow fadeInUp">
-      <!--============================================================
+
       <div class="container">
         <div class="section-header">
           <h2>Gallery</h2>
