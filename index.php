@@ -47,8 +47,8 @@
   ============================-->
   <section id="intro">
     <div class="intro-container wow fadeIn">
-      <h1 class="mb-4 pb-0">Happy Birthday<br><span>Akhil Anil</span></h1>
-      <!-- <p class="mb-4 pb-0">26-Aug-1998</p> -->
+      <h1 class="mb-4 pb-0">Happy Birthday<br><span>Julin Ashik Davis</span></h1>
+      <!-- <p class="mb-4 pb-0">20-July-1997</p> -->
         <video width="900" height="700" controls autoplay>
           <source src="video/Birthday.mp4" type="video/mp4">
         </video>
@@ -62,7 +62,7 @@
       Gallery Section
     ============================-->
     <section id="gallery" class="wow fadeInUp">
-
+      <!--============================================================
       <div class="container">
         <div class="section-header">
           <h2>Gallery</h2>
@@ -80,6 +80,7 @@
         <a href="img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/7.jpg" alt=""></a>
         <a href="img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/8.jpg" alt=""></a>
       </div>
+      ==============================================================-->
 
     </section>
 
